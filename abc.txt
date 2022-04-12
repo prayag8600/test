@@ -1,0 +1,6 @@
+ 4 : Dedicated Hosts
+A dedicated host is a physical server with EC2 instance capacity which is fully dedicated to your use.
+The physical EC2 server is the dedicated host that can help you to reduce costs by allowing you to use your existing server-bound software licenses. For example, Vmware, Oracle, SQL Server depending on the licenses that you can bring over to AWS and then they can use the Dedicated host.
+Dedicated hosts are used to address compliance requirements and reduces host by allowing to use your existing server-bound server licenses.
+It can be purchased as a Reservation for up to 70% off On-Demand price.
+
